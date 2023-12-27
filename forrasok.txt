@@ -1,0 +1,27 @@
+Többváltozós:
+
+Modellek:
+
+Decision Tree: 
+https://scikit-learn.org/stable/modules/tree.html#classification
+1.10 és 1.10.1
+
+Random Forest:
+https://scikit-learn.org/stable/modules/ensemble.html#
+1.11 és 1.11.2 és 1.11.2.1 és 1.11.4
+
+Naív Bayes:
+https://scikit-learn.org/stable/modules/naive_bayes.html#naive-bayes
+1.9 és 1.9.2
+
+Logisztikus regresszió (GLM):
+https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+1.1.11 és 1.1.11.1 esetleg 1.1.11.2
+
+SVM:
+https://scikit-learn.org/stable/modules/svm.html#
+1.4 és 1.4.1
+
+Érdekesség, hogy hogyan lesz egy tweetből táblázat:
+https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction
+
